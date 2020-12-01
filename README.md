@@ -54,6 +54,7 @@
 # 공부 리스트!!!!!!!!
 - ## Docker
 - - spring boot 프로젝트로 docker 이미지 빌드하여 구동
+- > Docker network 랑 Docker 컴포져 공부하기
 
 - ## kafka
 - > 메시지 큐 이용한 서비스 구현해보기
