@@ -11,6 +11,16 @@
  - 서버 OS : 시스템을 빠르고 안정적으로 실행하는데 초점을 맞춤 ( Linux 등)
 - 미들웨어 : 서버상에서 서버가 특정 역할을 하도록 기능을 제공하는 소프트웨어
 
+## Amazon S3 (Amazon Simple Storage Service)
+- 인터넷용 스토리지 서비스. 개발자가 쉽게 웹 규모 컴퓨팅 작업을 수행할 수 있도록 설계
+- 용량당 비용 계산
+
+## CDN(Contents Delivery Network)
+- 물리적으로 떨어져 있는 사용자에게 컨텐츠를 빠르게 제공할 수 있는 기술
+- Origin Server의 리소스를 사용자에 가까운 곳에 위치한 Cache Server에 Content를 캐싱하고 요청시 Cache Server가 응답해줘 Latency를 낮춤
+- 주로 캐싱이 되기 때문에 정적 파일에 사용 (동적 파일의 경우 주기적으로 업데이트 필요 ex) 주간 게임 랭킹)
+- Amazon CloudFront (시간당 비용 계산)
+
 # CI/CD (지속적 통합 / 지속적 배포)
 
 - CI/CD 파이프라인은 새 버전의 소프트웨어ㅡㄹ 제공하기 위해 수행해야 하는 일련의 단계
