@@ -52,20 +52,20 @@
 
 
 # 공부 리스트!!!!!!!!
-- ## Docker
+- ## [Docker](https://github.com/zkdlu/docker-example)
 - - spring boot 프로젝트로 docker 이미지 빌드하여 구동
 - > Docker network 랑 Docker 컴포져 공부하기
 
-- ## kafka
+- ## [kafka](https://github.com/zkdlu/spring-boot-kafka)
 - > 메시지 큐 이용한 서비스 구현해보기
 
-- ## ELK
+- ## [ELK](https://github.com/zkdlu/spring-boot-elasticsearch)
 - > 서비스에 로그 시스템으로 사용해보기
 
-- ## Redis
+- ## [Redis](https://github.com/zkdlu/spring-boot-redis)
 - > 서비스에 캐싱용으로 사용해보기
 
-- ## MSA
+- ## [MSA](https://github.com/zkdlu/spring-boot-cloud)
 - > .net이든 spring이든 마이크로 서비스 구축해보기
 
 - ## Github action or Jenkins 
