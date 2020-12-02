@@ -58,7 +58,7 @@
 - > .net이든 spring이든 마이크로 서비스 구축해보기
 - > 마이크로 서비스는 내가 아는 것 이상으로 서비스가 쪼개져야 한다. 로그인에 필요한 인증 서비스가 죽어도 메인 서비스는 구동이 되어야 하듯이
 
-- ## Github action or Jenkins 
+- ## [Github action or Jenkins](https://github.com/zkdlu/github-action-example)
 - > CI/CD, 수동으로 배포해보고 자동화 배포 해보기
 
 - ## Kubernetes
