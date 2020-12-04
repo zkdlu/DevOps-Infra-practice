@@ -69,6 +69,7 @@
 - > Amazon 인프라를 사용할 때 키 값이 하드코딩 될 수밖에 없는데 키를 관리하는 서비스를 통해 요청 depth를 깊게 하거나 암호화 한 키를 넣는다.
 - > 웹 서비스는 무조건 웹 방화벽을 생각하자
 
-- ## Back-End Framework
+- ## [Back-End Framework](https://github.com/zkdlu/backend-framework)
 - > 꾸준히 공부하셈
 - > ASP.NET Core냐 Spring이냐 Node.js냐는 중요치 않음. 각 프레임워크가 가지고 있는 이점을 이해하자.
+- > 프레임워크만 아니라 개발 인프라를 얼마나 잘 활용하는지가 중요
