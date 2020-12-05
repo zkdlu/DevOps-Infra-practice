@@ -41,44 +41,44 @@
 
 
 # 공부 리스트!!!!!!!!
-- ## [Docker](https://github.com/zkdlu/docker-example)
-- - spring boot 프로젝트로 docker 이미지 빌드하여 구동
-- > Docker network 랑 Docker 컴포져 공부하기
+## [Docker](https://github.com/zkdlu/docker-example)
+spring boot 프로젝트로 docker 이미지 빌드하여 구동
+> Docker network 랑 Docker 컴포져 공부하기
 
-- ## [kafka](https://github.com/zkdlu/spring-boot-kafka)
-- > 메시지 큐 이용한 서비스 구현해보기
+## [kafka](https://github.com/zkdlu/spring-boot-kafka)
+> 메시지 큐 이용한 서비스 구현해보기
 
-- ## [ELK](https://github.com/zkdlu/spring-boot-elasticsearch)
-- > 서비스에 로그 시스템으로 사용해보기
+## [ELK](https://github.com/zkdlu/spring-boot-elasticsearch)
+> 서비스에 로그 시스템으로 사용해보기
 
-- ## [Redis](https://github.com/zkdlu/spring-boot-redis)
-- > 서비스에 캐싱용으로 사용해보기
+## [Redis](https://github.com/zkdlu/spring-boot-redis)
+> 서비스에 캐싱용으로 사용해보기
 
-- ## [MSA](https://github.com/zkdlu/spring-boot-cloud)
-- > .net이든 spring이든 마이크로 서비스 구축해보기
-- > 마이크로 서비스는 내가 아는 것 이상으로 서비스가 쪼개져야 한다. 로그인에 필요한 인증 서비스가 죽어도 메인 서비스는 구동이 되어야 하듯이
+## [MSA](https://github.com/zkdlu/spring-boot-cloud)
+> .net이든 spring이든 마이크로 서비스 구축해보기
+> 마이크로 서비스는 내가 아는 것 이상으로 서비스가 쪼개져야 한다. 로그인에 필요한 인증 서비스가 죽어도 메인 서비스는 구동이 되어야 하듯이
 
-- ## [Github action or Jenkins](https://github.com/zkdlu/github-action-example)
-- > CI/CD, 수동으로 배포해보고 자동화 배포 해보기
+## [Github action or Jenkins](https://github.com/zkdlu/github-action-example)
+> CI/CD, 수동으로 배포해보고 자동화 배포 해보기
 
-- ## Kubernetes
-- > 쿠버네티스 활용하여 서비스 운용해보기
-- > - 도커가 CRI(Container Runtime Interface)를 지키지 않아 지원을 끊는다고 한다.
-- > - 다른 컨테이너 런타임 쓰라고 한다. (containerd, CRI-O) 
-- > - 아직 각 좀 봐야겠다..
-- > - https://kubernetes.io/blog/2020/12/02/dont-panic-kubernetes-and-docker/
+## Kubernetes
+> 쿠버네티스 활용하여 서비스 운용해보기
+>> 도커가 CRI(Container Runtime Interface)를 지키지 않아 지원을 끊는다고 한다.
+>> 다른 컨테이너 런타임 쓰라고 한다. (containerd, CRI-O) 
+>> 아직 각 좀 봐야겠다..
+>> https://kubernetes.io/blog/2020/12/02/dont-panic-kubernetes-and-docker/
 
-- ## [Amazon 인프라 활용하기](https://github.com/zkdlu/aws-example)
-- > EC2, Storage 등등
-- > Amazon 인프라를 사용할 때 키 값이 하드코딩 될 수밖에 없는데 키를 관리하는 서비스를 통해 요청 depth를 깊게 하거나 암호화 한 키를 넣는다.
-- > 웹 서비스는 무조건 웹 방화벽을 생각하자
+## [Amazon 인프라 활용하기](https://github.com/zkdlu/aws-example)
+> EC2, Storage 등등
+> Amazon 인프라를 사용할 때 키 값이 하드코딩 될 수밖에 없는데 키를 관리하는 서비스를 통해 요청 depth를 깊게 하거나 암호화 한 키를 넣는다.
+> 웹 서비스는 무조건 웹 방화벽을 생각하자
 
-- ## [Back-End Framework](https://github.com/zkdlu/backend-framework)
-- > 꾸준히 공부하셈
-- > ASP.NET Core냐 Spring이냐 Node.js냐는 중요치 않음. 각 프레임워크가 가지고 있는 이점을 이해하자.
-- > 프레임워크만 아니라 개발 인프라를 얼마나 잘 활용하는지가 중요
+## [Back-End Framework](https://github.com/zkdlu/backend-framework)
+> 꾸준히 공부하셈
+> ASP.NET Core냐 Spring이냐 Node.js냐는 중요치 않음. 각 프레임워크가 가지고 있는 이점을 이해하자.
+> 프레임워크만 아니라 개발 인프라를 얼마나 잘 활용하는지가 중요
 
-- ## DB
-- > 주로 윈도우 프로그램 외주를 해와서 DB를 깊게 사용한 경험이 얼마 없어 많이 부족한 듯
-- > RDBMS 특유의 CRUD나 트랜잭션에 대한 이해는 있으나, 직접 최적화 된 쿼리 작성 경험 없음
-- > 정규화랑 서브쿼리, 프로시저 등등등 할거는 많다.
+## DB
+> 주로 윈도우 프로그램 외주를 해와서 DB를 깊게 사용한 경험이 얼마 없어 많이 부족한 듯
+> RDBMS 특유의 CRUD나 트랜잭션에 대한 이해는 있으나, 직접 최적화 된 쿼리 작성 경험 없음
+> 정규화랑 서브쿼리, 프로시저 등등등 할거는 많다.
