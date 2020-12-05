@@ -63,14 +63,11 @@ spring boot 프로젝트로 docker 이미지 빌드하여 구동
 
 ## Kubernetes
 > 쿠버네티스 활용하여 서비스 운용해보기
->> 도커가 CRI(Container Runtime Interface)를 지키지 않아 지원을 끊는다고 한다.
-
->> 도커에서 생성한 이미지는 생성하고 실행하는게 가능하다고 함.
-
->> 다른 컨테이너 런타임 쓰라고 한다. (containerd, CRI-O) 
-
->> 아직 각 좀 봐야겠다..
->> https://kubernetes.io/blog/2020/12/02/dont-panic-kubernetes-and-docker/
+> - 도커가 CRI(Container Runtime Interface)를 지키지 않아 지원을 끊는다고 한다.
+> - 도커에서 생성한 이미지는 생성하고 실행하는게 가능하다고 함.
+> - 다른 컨테이너 런타임 쓰라고 한다. (containerd, CRI-O) 
+> - 아직 각 좀 봐야겠다..
+> - https://kubernetes.io/blog/2020/12/02/dont-panic-kubernetes-and-docker/
 
 ## [Amazon 인프라 활용하기](https://github.com/zkdlu/aws-example)
 > EC2, Storage 등등
