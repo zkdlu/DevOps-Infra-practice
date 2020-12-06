@@ -61,7 +61,7 @@ spring boot 프로젝트로 docker 이미지 빌드하여 구동
 ## [Github action or Jenkins](https://github.com/zkdlu/github-action-example)
 > CI/CD, 수동으로 배포해보고 자동화 배포 해보기
 
-## Kubernetes
+## [Kubernetes](https://github.com/zkdlu/kubernetes-example)
 > 쿠버네티스 활용하여 서비스 운용해보기
 > - 도커가 CRI(Container Runtime Interface)를 지키지 않아 지원을 끊는다고 한다.
 > - 도커에서 생성한 이미지는 생성하고 실행하는게 가능하다고 함.
