@@ -27,6 +27,7 @@
 5. **검증 및 컴플라이언스** - 빌드 검증 단계는 해당 조직의 필요에 따라 결정됨.
 
 > git push -> github action -> code deploy -> ec2 배포 -> 실행
+> - 참고: https://isntyet.github.io/deploy/github-action%EA%B3%BC-aws-code-deploy%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-spring-boot-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0(2)/
 
 ### Github Action
 - github 저장소를 기반으로 소프트웨어 개발 Workflow를 자동화 할 수 있는 도구. (CI/CD 도구)
