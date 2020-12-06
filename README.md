@@ -56,6 +56,7 @@ spring boot 프로젝트로 docker 이미지 빌드하여 구동
 
 ## [MSA](https://github.com/zkdlu/spring-boot-cloud)
 > .net이든 spring이든 마이크로 서비스 구축해보기
+
 > 마이크로 서비스는 내가 아는 것 이상으로 서비스가 쪼개져야 한다. 로그인에 필요한 인증 서비스가 죽어도 메인 서비스는 구동이 되어야 하듯이
 
 ## [Github action or Jenkins](https://github.com/zkdlu/github-action-example)
@@ -71,7 +72,7 @@ spring boot 프로젝트로 docker 이미지 빌드하여 구동
 
 ## [Amazon 인프라 활용하기](https://github.com/zkdlu/aws-example)
 > EC2, Storage 등등
-> Amazon 인프라를 사용할 때 키 값이 하드코딩 될 수밖에 없는데 키를 관리하는 서비스를 통해 요청 depth를 깊게 하거나 암호화 한 키를 넣는다.
+
 > 웹 서비스는 무조건 웹 방화벽을 생각하자
 
 ## [Back-End Framework](https://github.com/zkdlu/backend-framework)
