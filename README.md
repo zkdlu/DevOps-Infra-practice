@@ -43,7 +43,7 @@
 > 공개 저장소에는 무료
 
 
-# 공부 리스트!!!!!!!!
+# 공부 리스트
 ## [Docker](https://github.com/zkdlu/docker-example)
 spring boot 프로젝트로 docker 이미지 빌드하여 구동
 > Docker network 랑 Docker 컴포져 공부하기
