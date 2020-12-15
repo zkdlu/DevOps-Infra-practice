@@ -29,19 +29,6 @@
 > git push -> github action -> code deploy -> ec2 배포 -> 실행
 > - 참고: https://isntyet.github.io/deploy/github-action%EA%B3%BC-aws-code-deploy%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-spring-boot-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0(2)/
 
-### Github Action
-- github 저장소를 기반으로 소프트웨어 개발 Workflow를 자동화 할 수 있는 도구. (CI/CD 도구)
-- github 저장소에서 발생하는 build, test, package, release, deploy등 다양한 이벤트를 기반으로 직접 원하는 workflow를 만들 수 있다.
-- Workflow는 Runners라고 불리는 github에서 호스팅하는 머신의 Linux, macOs, Windows 환경, 컨테이너에서 실행 할 수 있다. 사용자 호스팅 환경에서 직접 구동 가능
-
-> Workflow는 저장소마다 최대 20개까지 등록 가능. 
-
-> Workflow 안에 존재하는 Job이라는 단위마다 최대 6시간동안 실행 될 수 있고, 초과하면 자동으로 중지됨.
-
-> Github 계정 플랜에 따라 전체 Git저장소를 통틀어 동시 실행할 수 있는 Job의 개수가 정해져 있고, Job안에서 Github api를 호출한다면 1시간동안 최대 1000번까지만 가능
-
-> 공개 저장소에는 무료
-
 
 # 공부 리스트
 ## [Docker](https://github.com/zkdlu/docker-example)
